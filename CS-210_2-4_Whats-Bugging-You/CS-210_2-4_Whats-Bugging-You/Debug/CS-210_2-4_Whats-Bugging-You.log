@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\FWaha\source\repos\CS-210_2-4_Whats-Bugging-You\CS-210_2-4_Whats-Bugging-You\Source.cpp(13,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\FWaha\source\repos\CS-210_2-4_Whats-Bugging-You\CS-210_2-4_Whats-Bugging-You\Source.cpp(14,7): warning C4101: 'statement': unreferenced local variable
+  CS-210_2-4_Whats-Bugging-You.vcxproj -> C:\Users\FWaha\source\repos\CS-210_2-4_Whats-Bugging-You\Debug\CS-210_2-4_Whats-Bugging-You.exe
