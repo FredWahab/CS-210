@@ -1,0 +1,6 @@
+﻿  CSVparser.cpp
+  LinkedList.cpp
+C:\Users\FWaha\Documents\CS-300\CS 300 Linked List Assignment Student Files\CS 300 Linked List Assignment Student Files\LinkedList.cpp(293,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\FWaha\Documents\CS-300\CS 300 Linked List Assignment Student Files\CS 300 Linked List Assignment Student Files\LinkedList.cpp(229): warning C4715: 'LinkedList::Search': not all control paths return a value
+  LinkedList.vcxproj -> C:\Users\FWaha\source\repos\LinkedList\Debug\LinkedList.exe
